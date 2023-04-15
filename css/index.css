@@ -1,0 +1,10 @@
+body{
+    background: #5D7385;
+    color : white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+a{
+    color: red;
+}
