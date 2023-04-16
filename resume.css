@@ -1,7 +1,7 @@
 body{
     background: #4CB963;
     color : white;
-    text-align: center;
+    
     font-family: 'Courier New', Courier, monospace;
     box-sizing: border-box;
 }
@@ -12,4 +12,7 @@ body{
 }
 a{
     color: red;
+}
+.vicky{
+    text-align: center;
 }
